@@ -10,9 +10,9 @@ Program retrieves from API Calamari the data on employees' absences in a selecte
 <p align="center"> Output .xlsx file: <br/><img src="https://i.imgur.com/a9tRHzG.jpeg"></p>
 
 ## Used frameworks
-WinForms
-Newtonsoft.Json 13.0.0.0
-EPPlus 5.8.2.0
+- WinForms
+- Newtonsoft.Json 13.0.0.0
+- EPPlus 5.8.2.0
 
 -----------------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Program pobiera z API Calamari dane dot. nieobecności pracowników w wybranym m
 <p align="center"> Wynikowy plik .xlsx: <br/><img src="https://i.imgur.com/a9tRHzG.jpeg"></p>
 
 ## Użyte biblioteki
-WinForms
-Newtonsoft.Json 13.0.0.0
-EPPlus 5.8.2.0
+- WinForms
+- Newtonsoft.Json 13.0.0.0
+- EPPlus 5.8.2.0
 
